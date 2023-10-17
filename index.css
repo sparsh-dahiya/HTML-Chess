@@ -1,0 +1,38 @@
+body{
+    background-image: url("chess\ image.avif");
+    
+    
+}
+.black-box{
+    background-color: black;
+    height:60px;
+    width:60px;
+ }
+
+.black-box:hover{
+    color:peru;
+}
+
+.white-box{
+    background-color: white;
+    height:60px;
+    width:60px;
+}
+
+.white-box:hover{
+    color:peru;
+}
+
+.chess{
+    font-size: 40px;
+    text-shadow: 2px 1px peru;
+    background-color: grey;
+    opacity: 0.9;
+    
+}
+
+
+
+
+
+
